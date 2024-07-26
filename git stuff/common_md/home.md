@@ -53,4 +53,4 @@ Deploy the example using [Vercel](https://vercel.com/new/git/external?repository
 
 Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See [how to deploy a custom version of the linked-blog-starter](deploy-a-custom-linked-blog-starter.md)
 
-![fn-website-demo.gif](attachments/fn-website-demo.gif)
+![fn-website-demo.gif](fn-website-demo.gif)
